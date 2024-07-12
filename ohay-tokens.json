@@ -1,0 +1,3820 @@
+{
+  "global": {},
+  "Tailwind Colors/Mode 1": {
+    "Blue Grey": {
+      "50": {
+        "value": "#f8fafc",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "100": {
+        "value": "#f1f5f9",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "200": {
+        "value": "#e2e8f0",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "300": {
+        "value": "#cbd5e1",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "400": {
+        "value": "#94a3b8",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "500": {
+        "value": "#64748b",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "600": {
+        "value": "#475569",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "700": {
+        "value": "#334155",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "800": {
+        "value": "#1e293b",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "900": {
+        "value": "#0f172a",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      }
+    },
+    "Cool Grey": {
+      "50": {
+        "value": "#f9fafb",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "100": {
+        "value": "#f3f4f6",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "200": {
+        "value": "#e5e7eb",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "300": {
+        "value": "#d1d5db",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "400": {
+        "value": "#9ca3af",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "500": {
+        "value": "#6b7280",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "600": {
+        "value": "#4b5563",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "700": {
+        "value": "#374151",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "800": {
+        "value": "#1f2937",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "900": {
+        "value": "#111827",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      }
+    },
+    "Grey": {
+      "50": {
+        "value": "#fafafa",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "100": {
+        "value": "#f4f4f5",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "200": {
+        "value": "#e4e4e7",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "300": {
+        "value": "#d4d4d8",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "400": {
+        "value": "#a1a1aa",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "500": {
+        "value": "#71717a",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "600": {
+        "value": "#52525b",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "700": {
+        "value": "#3f3f46",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "800": {
+        "value": "#27272a",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "900": {
+        "value": "#18181b",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      }
+    },
+    "True Grey": {
+      "50": {
+        "value": "#fafafa",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "100": {
+        "value": "#f5f5f5",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "200": {
+        "value": "#e5e5e5",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "300": {
+        "value": "#d4d4d4",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "400": {
+        "value": "#a3a3a3",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "500": {
+        "value": "#737373",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "600": {
+        "value": "#525252",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "700": {
+        "value": "#404040",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "800": {
+        "value": "#262626",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "900": {
+        "value": "#171717",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      }
+    },
+    "Warm Grey": {
+      "50": {
+        "value": "#fafaf9",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "100": {
+        "value": "#f5f5f4",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "200": {
+        "value": "#e7e5e4",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "300": {
+        "value": "#d6d3d1",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "400": {
+        "value": "#a8a29e",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "500": {
+        "value": "#78716c",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "600": {
+        "value": "#57534e",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "700": {
+        "value": "#44403c",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "800": {
+        "value": "#292524",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "900": {
+        "value": "#1c1917",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      }
+    },
+    "Red": {
+      "50": {
+        "value": "#fef2f2",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "100": {
+        "value": "#fee2e2",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "200": {
+        "value": "#fecaca",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "300": {
+        "value": "#fca5a5",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "400": {
+        "value": "#f87171",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "500": {
+        "value": "#ef4444",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "600": {
+        "value": "#dc2626",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "700": {
+        "value": "#b91c1c",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "800": {
+        "value": "#991b1b",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "900": {
+        "value": "#7f1d1d",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      }
+    },
+    "Orange": {
+      "50": {
+        "value": "#fff7ed",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "100": {
+        "value": "#ffedd5",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "200": {
+        "value": "#fed7aa",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "300": {
+        "value": "#fdba74",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "400": {
+        "value": "#fb923c",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "500": {
+        "value": "#f97316",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "600": {
+        "value": "#ea580c",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "700": {
+        "value": "#c2410c",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "800": {
+        "value": "#9a3412",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "900": {
+        "value": "#7c2d12",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      }
+    },
+    "Amber": {
+      "50": {
+        "value": "#fffbeb",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "100": {
+        "value": "#fef3c7",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "200": {
+        "value": "#fde68a",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "300": {
+        "value": "#fcd34d",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "400": {
+        "value": "#fbbf24",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "500": {
+        "value": "#f59e0b",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "600": {
+        "value": "#d97706",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "700": {
+        "value": "#b45309",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "800": {
+        "value": "#92400e",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "900": {
+        "value": "#78350f",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      }
+    },
+    "Yellow": {
+      "50": {
+        "value": "#fefce8",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "100": {
+        "value": "#fef9c3",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "200": {
+        "value": "#fef08a",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "300": {
+        "value": "#fde047",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "400": {
+        "value": "#facc15",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "500": {
+        "value": "#eab308",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "600": {
+        "value": "#ca8a04",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "700": {
+        "value": "#a16207",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "800": {
+        "value": "#854d0e",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "900": {
+        "value": "#713f12",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      }
+    },
+    "Lime": {
+      "50": {
+        "value": "#f7fee7",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "100": {
+        "value": "#ecfccb",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "200": {
+        "value": "#d9f99d",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "300": {
+        "value": "#bef264",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "400": {
+        "value": "#a3e635",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "500": {
+        "value": "#84cc16",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "600": {
+        "value": "#65a30d",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "700": {
+        "value": "#4d7c0f",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "800": {
+        "value": "#3f6212",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "900": {
+        "value": "#365314",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      }
+    },
+    "Green": {
+      "50": {
+        "value": "#f0fdf4",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "100": {
+        "value": "#dcfce7",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "200": {
+        "value": "#bbf7d0",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "300": {
+        "value": "#86efac",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "400": {
+        "value": "#4ade80",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "500": {
+        "value": "#22c55e",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "600": {
+        "value": "#16a34a",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "700": {
+        "value": "#15803d",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "800": {
+        "value": "#166534",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "900": {
+        "value": "#14532d",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      }
+    },
+    "Emerald": {
+      "50": {
+        "value": "#ecfdf5",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "100": {
+        "value": "#d1fae5",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "200": {
+        "value": "#a7f3d0",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "300": {
+        "value": "#6ee7b7",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "400": {
+        "value": "#34d399",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "500": {
+        "value": "#10b981",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "600": {
+        "value": "#059669",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "700": {
+        "value": "#047857",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "800": {
+        "value": "#065f46",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "900": {
+        "value": "#064e3b",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      }
+    },
+    "Teal": {
+      "50": {
+        "value": "#f0fdfa",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "100": {
+        "value": "#ccfbf1",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "200": {
+        "value": "#99f6e4",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "300": {
+        "value": "#5eead4",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "400": {
+        "value": "#2dd4bf",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "500": {
+        "value": "#14b8a6",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "600": {
+        "value": "#0d9488",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "700": {
+        "value": "#0f766e",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "800": {
+        "value": "#115e59",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "900": {
+        "value": "#134e4a",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      }
+    },
+    "Cyan": {
+      "50": {
+        "value": "#ecfeff",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "100": {
+        "value": "#cffafe",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "200": {
+        "value": "#a5f3fc",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "300": {
+        "value": "#67e8f9",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "400": {
+        "value": "#22d3ee",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "500": {
+        "value": "#06b6d4",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "600": {
+        "value": "#0891b2",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "700": {
+        "value": "#0e7490",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "800": {
+        "value": "#155e75",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "900": {
+        "value": "#164e63",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      }
+    },
+    "Light Blue": {
+      "50": {
+        "value": "#f0f9ff",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "100": {
+        "value": "#e0f2fe",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "200": {
+        "value": "#bae6fd",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "300": {
+        "value": "#7dd3fc",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "400": {
+        "value": "#38bdf8",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "500": {
+        "value": "#0ea5e9",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "600": {
+        "value": "#0284c7",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "700": {
+        "value": "#0369a1",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "800": {
+        "value": "#075985",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "900": {
+        "value": "#0c4a6e",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      }
+    },
+    "Blue": {
+      "50": {
+        "value": "#eff6ff",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "100": {
+        "value": "#dbeafe",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "200": {
+        "value": "#bfdbfe",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "300": {
+        "value": "#93c5fd",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "400": {
+        "value": "#60a5fa",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "500": {
+        "value": "#3b82f6",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "600": {
+        "value": "#2563eb",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "700": {
+        "value": "#1d4ed8",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "800": {
+        "value": "#1e40af",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "900": {
+        "value": "#1e3a8a",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      }
+    },
+    "Indigo": {
+      "50": {
+        "value": "#eef2ff",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "100": {
+        "value": "#e0e7ff",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "200": {
+        "value": "#c7d2fe",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "300": {
+        "value": "#a5b4fc",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "400": {
+        "value": "#818cf8",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "500": {
+        "value": "#6366f1",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "600": {
+        "value": "#4f46e5",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "700": {
+        "value": "#4338ca",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "800": {
+        "value": "#3730a3",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "900": {
+        "value": "#312e81",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      }
+    },
+    "Violet": {
+      "50": {
+        "value": "#f5f3ff",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "100": {
+        "value": "#ede9fe",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "200": {
+        "value": "#ddd6fe",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "300": {
+        "value": "#c4b5fd",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "400": {
+        "value": "#a78bfa",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "500": {
+        "value": "#8b5cf6",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "600": {
+        "value": "#7c3aed",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "700": {
+        "value": "#6d28d9",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "800": {
+        "value": "#5b21b6",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "900": {
+        "value": "#4c1d95",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      }
+    },
+    "Purple": {
+      "50": {
+        "value": "#faf5ff",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "100": {
+        "value": "#f3e8ff",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "200": {
+        "value": "#e9d5ff",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "300": {
+        "value": "#d8b4fe",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "400": {
+        "value": "#c084fc",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "500": {
+        "value": "#a855f7",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "600": {
+        "value": "#9333ea",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "700": {
+        "value": "#7e22ce",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "800": {
+        "value": "#6b21a8",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "900": {
+        "value": "#581c87",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      }
+    },
+    "Fuchsia": {
+      "50": {
+        "value": "#fdf4ff",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "100": {
+        "value": "#fae8ff",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "200": {
+        "value": "#f5d0fe",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "300": {
+        "value": "#f0abfc",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "400": {
+        "value": "#e879f9",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "500": {
+        "value": "#d946ef",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "600": {
+        "value": "#c026d3",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "700": {
+        "value": "#a21caf",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "800": {
+        "value": "#86198f",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "900": {
+        "value": "#701a75",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      }
+    },
+    "Pink": {
+      "50": {
+        "value": "#fdf2f8",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "100": {
+        "value": "#fce7f3",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "200": {
+        "value": "#fbcfe8",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "300": {
+        "value": "#f9a8d4",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "400": {
+        "value": "#f472b6",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "500": {
+        "value": "#ec4899",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "600": {
+        "value": "#db2777",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "700": {
+        "value": "#be185d",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "800": {
+        "value": "#9d174d",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "900": {
+        "value": "#831843",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      }
+    },
+    "Rose": {
+      "50": {
+        "value": "#fff1f2",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "100": {
+        "value": "#ffe4e6",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "200": {
+        "value": "#fecdd3",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "300": {
+        "value": "#fda4af",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "400": {
+        "value": "#fb7185",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "500": {
+        "value": "#f43f5e",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "600": {
+        "value": "#e11d48",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "700": {
+        "value": "#be123c",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "800": {
+        "value": "#9f1239",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      },
+      "900": {
+        "value": "#881337",
+        "type": "color",
+        "parent": "Tailwind Colors/Mode 1",
+        "description": ""
+      }
+    }
+  },
+  "ohay system/Mode 1": {
+    "ohay Color": {
+      "value": "#044f44",
+      "type": "color",
+      "parent": "ohay system/Mode 1",
+      "description": ""
+    }
+  },
+  "ohay colors mode/Light mode": {
+    "text": {
+      "heading-primary": {
+        "value": "{Blue Grey.900}",
+        "type": "color",
+        "parent": "ohay colors mode/Light mode",
+        "description": ""
+      },
+      "body": {
+        "value": "{Blue Grey.700}",
+        "type": "color",
+        "parent": "ohay colors mode/Light mode",
+        "description": ""
+      },
+      "heading-inverted": {
+        "value": "#ffffff",
+        "type": "color",
+        "parent": "ohay colors mode/Light mode",
+        "description": ""
+      },
+      "body-inverted": {
+        "value": "#e5e7eb",
+        "type": "color",
+        "parent": "ohay colors mode/Light mode",
+        "description": ""
+      },
+      "body-on-brand": {
+        "value": "#f0f8ff",
+        "type": "color",
+        "parent": "ohay colors mode/Light mode",
+        "description": ""
+      },
+      "sub-headline-brand": {
+        "value": "#0072de",
+        "type": "color",
+        "parent": "ohay colors mode/Light mode",
+        "description": ""
+      },
+      "footer-headline": {
+        "value": "#6b7280",
+        "type": "color",
+        "parent": "ohay colors mode/Light mode",
+        "description": ""
+      },
+      "footer-headline-inverted": {
+        "value": "#ffffff",
+        "type": "color",
+        "parent": "ohay colors mode/Light mode",
+        "description": ""
+      },
+      "disabled": {
+        "value": "#d1d5db",
+        "type": "color",
+        "parent": "ohay colors mode/Light mode",
+        "description": ""
+      },
+      "heading-secondary": {
+        "value": "#374151",
+        "type": "color",
+        "parent": "ohay colors mode/Light mode",
+        "description": ""
+      },
+      "error-primary": {
+        "value": "#dc2626",
+        "type": "color",
+        "parent": "ohay colors mode/Light mode",
+        "description": ""
+      },
+      "placeholder": {
+        "value": "{Blue Grey.500}",
+        "type": "color",
+        "parent": "ohay colors mode/Light mode",
+        "description": ""
+      },
+      "error-secondary": {
+        "value": "#ef4444",
+        "type": "color",
+        "parent": "ohay colors mode/Light mode",
+        "description": ""
+      }
+    },
+    "border": {
+      "border-primary": {
+        "value": "#d1d5db",
+        "type": "color",
+        "parent": "ohay colors mode/Light mode",
+        "description": ""
+      },
+      "border-secondary": {
+        "value": "#e5e7eb",
+        "type": "color",
+        "parent": "ohay colors mode/Light mode",
+        "description": ""
+      },
+      "border-tertiary": {
+        "value": "#f3f4f6",
+        "type": "color",
+        "parent": "ohay colors mode/Light mode",
+        "description": ""
+      },
+      "border-brand": {
+        "value": "#0072de",
+        "type": "color",
+        "parent": "ohay colors mode/Light mode",
+        "description": ""
+      },
+      "border-white": {
+        "value": "#ffffff",
+        "type": "color",
+        "parent": "ohay colors mode/Light mode",
+        "description": ""
+      },
+      "border-brand-hover": {
+        "value": "#0067c7",
+        "type": "color",
+        "parent": "ohay colors mode/Light mode",
+        "description": ""
+      },
+      "border-brand-click": {
+        "value": "#005aad",
+        "type": "color",
+        "parent": "ohay colors mode/Light mode",
+        "description": ""
+      },
+      "border-brand-subtle": {
+        "value": "#b3daff",
+        "type": "color",
+        "parent": "ohay colors mode/Light mode",
+        "description": ""
+      },
+      "border-error-subtle": {
+        "value": "#fca5a5",
+        "type": "color",
+        "parent": "ohay colors mode/Light mode",
+        "description": ""
+      },
+      "border-error": {
+        "value": "#dc2626",
+        "type": "color",
+        "parent": "ohay colors mode/Light mode",
+        "description": ""
+      },
+      "border-error-hover": {
+        "value": "#b91c1c",
+        "type": "color",
+        "parent": "ohay colors mode/Light mode",
+        "description": ""
+      },
+      "border-error-click": {
+        "value": "#991b1b",
+        "type": "color",
+        "parent": "ohay colors mode/Light mode",
+        "description": ""
+      },
+      "border-error-disabled": {
+        "value": "#fecaca",
+        "type": "color",
+        "parent": "ohay colors mode/Light mode",
+        "description": ""
+      },
+      "border-disabled": {
+        "value": "#d1d5db",
+        "type": "color",
+        "parent": "ohay colors mode/Light mode",
+        "description": ""
+      },
+      "border-solid": {
+        "value": "#4b5563",
+        "type": "color",
+        "parent": "ohay colors mode/Light mode",
+        "description": ""
+      }
+    },
+    "icons": {
+      "icon-quaternary": {
+        "value": "#4b5563",
+        "type": "color",
+        "parent": "ohay colors mode/Light mode",
+        "description": ""
+      },
+      "icon-quinary": {
+        "value": "#6b7280",
+        "type": "color",
+        "parent": "ohay colors mode/Light mode",
+        "description": ""
+      },
+      "icon-brand-secondary": {
+        "value": "#0072de",
+        "type": "color",
+        "parent": "ohay colors mode/Light mode",
+        "description": ""
+      },
+      "icon-success-primary": {
+        "value": "#22c55e",
+        "type": "color",
+        "parent": "ohay colors mode/Light mode",
+        "description": ""
+      },
+      "icon-warning-primary": {
+        "value": "#f59e0b",
+        "type": "color",
+        "parent": "ohay colors mode/Light mode",
+        "description": ""
+      },
+      "icon-error-primary": {
+        "value": "#991b1b",
+        "type": "color",
+        "parent": "ohay colors mode/Light mode",
+        "description": ""
+      },
+      "icon-brand-primary": {
+        "value": "#0067c7",
+        "type": "color",
+        "parent": "ohay colors mode/Light mode",
+        "description": ""
+      },
+      "icon-septenary": {
+        "value": "#d1d5db",
+        "type": "color",
+        "parent": "ohay colors mode/Light mode",
+        "description": ""
+      },
+      "icon-on-fill": {
+        "value": "#ffffff",
+        "type": "color",
+        "parent": "ohay colors mode/Light mode",
+        "description": ""
+      },
+      "icon-brand-tertiary": {
+        "value": "#005aad",
+        "type": "color",
+        "parent": "ohay colors mode/Light mode",
+        "description": ""
+      },
+      "icon-brand-disabled": {
+        "value": "#b3daff",
+        "type": "color",
+        "parent": "ohay colors mode/Light mode",
+        "description": ""
+      },
+      "icon-primary": {
+        "value": "#111827",
+        "type": "color",
+        "parent": "ohay colors mode/Light mode",
+        "description": ""
+      },
+      "icon-secondary": {
+        "value": "#1f2937",
+        "type": "color",
+        "parent": "ohay colors mode/Light mode",
+        "description": ""
+      },
+      "icon-error-secondary": {
+        "value": "#b91c1c",
+        "type": "color",
+        "parent": "ohay colors mode/Light mode",
+        "description": ""
+      },
+      "icon-error-tertiary": {
+        "value": "#dc2626",
+        "type": "color",
+        "parent": "ohay colors mode/Light mode",
+        "description": ""
+      },
+      "icon-error-disabled": {
+        "value": "#fecaca",
+        "type": "color",
+        "parent": "ohay colors mode/Light mode",
+        "description": ""
+      },
+      "icon-tertiary": {
+        "value": "#374151",
+        "type": "color",
+        "parent": "ohay colors mode/Light mode",
+        "description": ""
+      },
+      "icon-warning-secondary": {
+        "value": "#d97706",
+        "type": "color",
+        "parent": "ohay colors mode/Light mode",
+        "description": ""
+      },
+      "icon-error-quarternary": {
+        "value": "#ef4444",
+        "type": "color",
+        "parent": "ohay colors mode/Light mode",
+        "description": ""
+      },
+      "icon-senary": {
+        "value": "#9ca3af",
+        "type": "color",
+        "parent": "ohay colors mode/Light mode",
+        "description": ""
+      },
+      "icon-success-secondary": {
+        "value": "#16a34a",
+        "type": "color",
+        "parent": "ohay colors mode/Light mode",
+        "description": ""
+      }
+    },
+    "background": {
+      "bg-primary": {
+        "value": "#ffffff",
+        "type": "color",
+        "parent": "ohay colors mode/Light mode",
+        "description": ""
+      },
+      "bg-secondary": {
+        "value": "#f9fafb",
+        "type": "color",
+        "parent": "ohay colors mode/Light mode",
+        "description": ""
+      },
+      "bg-brand-primary": {
+        "value": "#f0f8ff",
+        "type": "color",
+        "parent": "ohay colors mode/Light mode",
+        "description": ""
+      },
+      "bg-success-primary": {
+        "value": "#f0fdf4",
+        "type": "color",
+        "parent": "ohay colors mode/Light mode",
+        "description": ""
+      },
+      "bg-warning": {
+        "value": "#fffbeb",
+        "type": "color",
+        "parent": "ohay colors mode/Light mode",
+        "description": ""
+      },
+      "bg-error-primary": {
+        "value": "#fef2f2",
+        "type": "color",
+        "parent": "ohay colors mode/Light mode",
+        "description": ""
+      },
+      "bg-brand-secondary": {
+        "value": "#dbeeff",
+        "type": "color",
+        "parent": "ohay colors mode/Light mode",
+        "description": ""
+      },
+      "bg-brand-quaternary": {
+        "value": "#0072de",
+        "type": "color",
+        "parent": "ohay colors mode/Light mode",
+        "description": ""
+      },
+      "bg-quaternary": {
+        "value": "#e5e7eb",
+        "type": "color",
+        "parent": "ohay colors mode/Light mode",
+        "description": ""
+      },
+      "bg-success-tertiary": {
+        "value": "#22c55e",
+        "type": "color",
+        "parent": "ohay colors mode/Light mode",
+        "description": ""
+      },
+      "bg-brand-quinary": {
+        "value": "#0067c7",
+        "type": "color",
+        "parent": "ohay colors mode/Light mode",
+        "description": ""
+      },
+      "bg-brand-senary": {
+        "value": "#005aad",
+        "type": "color",
+        "parent": "ohay colors mode/Light mode",
+        "description": ""
+      },
+      "bg-brand-tertiary": {
+        "value": "#b3daff",
+        "type": "color",
+        "parent": "ohay colors mode/Light mode",
+        "description": ""
+      },
+      "bg-tertiary": {
+        "value": "#f3f4f6",
+        "type": "color",
+        "parent": "ohay colors mode/Light mode",
+        "description": ""
+      },
+      "bg-error-quarternary": {
+        "value": "#dc2626",
+        "type": "color",
+        "parent": "ohay colors mode/Light mode",
+        "description": ""
+      },
+      "bg-error-quinary": {
+        "value": "#b91c1c",
+        "type": "color",
+        "parent": "ohay colors mode/Light mode",
+        "description": ""
+      },
+      "bg-error-senary": {
+        "value": "#991b1b",
+        "type": "color",
+        "parent": "ohay colors mode/Light mode",
+        "description": ""
+      },
+      "bg-error-secondary": {
+        "value": "#fee2e2",
+        "type": "color",
+        "parent": "ohay colors mode/Light mode",
+        "description": ""
+      },
+      "bg-error-tertiary": {
+        "value": "#fecaca",
+        "type": "color",
+        "parent": "ohay colors mode/Light mode",
+        "description": ""
+      },
+      "bg-solid-primary": {
+        "value": "#111827",
+        "type": "color",
+        "parent": "ohay colors mode/Light mode",
+        "description": ""
+      },
+      "bg-solid-quarternary": {
+        "value": "#6b7280",
+        "type": "color",
+        "parent": "ohay colors mode/Light mode",
+        "description": ""
+      },
+      "bg-success-quarternary": {
+        "value": "#16a34a",
+        "type": "color",
+        "parent": "ohay colors mode/Light mode",
+        "description": ""
+      },
+      "bg-success-senery": {
+        "value": "#15803d",
+        "type": "color",
+        "parent": "ohay colors mode/Light mode",
+        "description": ""
+      },
+      "bg-primary-cards": {
+        "value": "#ffffff",
+        "type": "color",
+        "parent": "ohay colors mode/Light mode",
+        "description": ""
+      },
+      "bg-senary": {
+        "value": "#d1d5db",
+        "type": "color",
+        "parent": "ohay colors mode/Light mode",
+        "description": ""
+      },
+      "bg-solid-tertiary": {
+        "value": "#374151",
+        "type": "color",
+        "parent": "ohay colors mode/Light mode",
+        "description": ""
+      },
+      "bg-success-secondary": {
+        "value": "#dcfce7",
+        "type": "color",
+        "parent": "ohay colors mode/Light mode",
+        "description": ""
+      },
+      "bg-solid-secondary": {
+        "value": "#1f2937",
+        "type": "color",
+        "parent": "ohay colors mode/Light mode",
+        "description": ""
+      }
+    },
+    "buttons": {
+      "primary": {
+        "fg-button-primary": {
+          "value": "#ffffff",
+          "type": "color",
+          "parent": "ohay colors mode/Light mode",
+          "description": ""
+        },
+        "bg-button-primary": {
+          "value": "#0072de",
+          "type": "color",
+          "parent": "ohay colors mode/Light mode",
+          "description": ""
+        },
+        "bg-button-primary-hover": {
+          "value": "#0067c7",
+          "type": "color",
+          "parent": "ohay colors mode/Light mode",
+          "description": ""
+        },
+        "bg-button-primary-click": {
+          "value": "#005aad",
+          "type": "color",
+          "parent": "ohay colors mode/Light mode",
+          "description": ""
+        },
+        "bg-button-primary-disabled": {
+          "value": "#f3f4f6",
+          "type": "color",
+          "parent": "ohay colors mode/Light mode",
+          "description": ""
+        },
+        "fg-button-primary-disabled": {
+          "value": "#9ca3af",
+          "type": "color",
+          "parent": "ohay colors mode/Light mode",
+          "description": ""
+        }
+      },
+      "secondary": {
+        "fg-button-secondary": {
+          "value": "#0072de",
+          "type": "color",
+          "parent": "ohay colors mode/Light mode",
+          "description": ""
+        },
+        "fg-button-secondary-hover": {
+          "value": "#0067c7",
+          "type": "color",
+          "parent": "ohay colors mode/Light mode",
+          "description": ""
+        },
+        "fg-button-secondary-click": {
+          "value": "#005aad",
+          "type": "color",
+          "parent": "ohay colors mode/Light mode",
+          "description": ""
+        },
+        "fg-button-secondary-disabled": {
+          "value": "#9ca3af",
+          "type": "color",
+          "parent": "ohay colors mode/Light mode",
+          "description": ""
+        },
+        "bg-button-secondary": {
+          "value": "#ffffff",
+          "type": "color",
+          "parent": "ohay colors mode/Light mode",
+          "description": ""
+        },
+        "bg-button-secondary-hover": {
+          "value": "#f0f8ff",
+          "type": "color",
+          "parent": "ohay colors mode/Light mode",
+          "description": ""
+        },
+        "bg-button-secondary-click": {
+          "value": "#dbeeff",
+          "type": "color",
+          "parent": "ohay colors mode/Light mode",
+          "description": ""
+        },
+        "bg-button-secondary-disabled": {
+          "value": "#ffffff",
+          "type": "color",
+          "parent": "ohay colors mode/Light mode",
+          "description": ""
+        },
+        "border-button-secondary": {
+          "value": "#0072de",
+          "type": "color",
+          "parent": "ohay colors mode/Light mode",
+          "description": ""
+        },
+        "border-button-secondary-hover": {
+          "value": "#0067c7",
+          "type": "color",
+          "parent": "ohay colors mode/Light mode",
+          "description": ""
+        },
+        "border-button-secondary-click": {
+          "value": "#005aad",
+          "type": "color",
+          "parent": "ohay colors mode/Light mode",
+          "description": ""
+        },
+        "border-button-secondary-disabled": {
+          "value": "#e5e7eb",
+          "type": "color",
+          "parent": "ohay colors mode/Light mode",
+          "description": ""
+        }
+      },
+      "tertiary": {
+        "fg-button-tertiary": {
+          "value": "#374151",
+          "type": "color",
+          "parent": "ohay colors mode/Light mode",
+          "description": ""
+        },
+        "fg-button-tertiary-hover": {
+          "value": "#1f2937",
+          "type": "color",
+          "parent": "ohay colors mode/Light mode",
+          "description": ""
+        },
+        "fg-button-tertiary-click": {
+          "value": "#111827",
+          "type": "color",
+          "parent": "ohay colors mode/Light mode",
+          "description": ""
+        },
+        "fg-button-tertiary-disabled": {
+          "value": "#9ca3af",
+          "type": "color",
+          "parent": "ohay colors mode/Light mode",
+          "description": ""
+        },
+        "bg-button-tertiary": {
+          "value": "#ffffff",
+          "type": "color",
+          "parent": "ohay colors mode/Light mode",
+          "description": ""
+        },
+        "bg-button-tertiary-hover": {
+          "value": "#f9fafb",
+          "type": "color",
+          "parent": "ohay colors mode/Light mode",
+          "description": ""
+        },
+        "bg-button-tertiary-click": {
+          "value": "#f3f4f6",
+          "type": "color",
+          "parent": "ohay colors mode/Light mode",
+          "description": ""
+        },
+        "bg-button-tertiary-disabled": {
+          "value": "#ffffff",
+          "type": "color",
+          "parent": "ohay colors mode/Light mode",
+          "description": ""
+        },
+        "border-button-tertiary": {
+          "value": "#d1d5db",
+          "type": "color",
+          "parent": "ohay colors mode/Light mode",
+          "description": ""
+        },
+        "border-button-tertiary-disabled": {
+          "value": "#e5e7eb",
+          "type": "color",
+          "parent": "ohay colors mode/Light mode",
+          "description": ""
+        }
+      },
+      "link01": {
+        "fg-button-link01": {
+          "value": "#0072de",
+          "type": "color",
+          "parent": "ohay colors mode/Light mode",
+          "description": ""
+        },
+        "fg-button-link01-hover": {
+          "value": "#0067c7",
+          "type": "color",
+          "parent": "ohay colors mode/Light mode",
+          "description": ""
+        },
+        "fg-button-link01-click": {
+          "value": "#005aad",
+          "type": "color",
+          "parent": "ohay colors mode/Light mode",
+          "description": ""
+        },
+        "fg-button-link01-disabled": {
+          "value": "#9ca3af",
+          "type": "color",
+          "parent": "ohay colors mode/Light mode",
+          "description": ""
+        },
+        "bg-button-link01": {
+          "value": "#f0f8ff",
+          "type": "color",
+          "parent": "ohay colors mode/Light mode",
+          "description": ""
+        }
+      },
+      "link02": {
+        "fg-button-link02": {
+          "value": "#374151",
+          "type": "color",
+          "parent": "ohay colors mode/Light mode",
+          "description": ""
+        },
+        "fg-button-link02-hover": {
+          "value": "#1f2937",
+          "type": "color",
+          "parent": "ohay colors mode/Light mode",
+          "description": ""
+        },
+        "fg-button-link02-click": {
+          "value": "#111827",
+          "type": "color",
+          "parent": "ohay colors mode/Light mode",
+          "description": ""
+        },
+        "fg-button-link02-disabled": {
+          "value": "#9ca3af",
+          "type": "color",
+          "parent": "ohay colors mode/Light mode",
+          "description": ""
+        },
+        "bg-button-link02": {
+          "value": "#f9fafb",
+          "type": "color",
+          "parent": "ohay colors mode/Light mode",
+          "description": ""
+        }
+      },
+      "destructive-primary": {
+        "fg-button-destructive-primary": {
+          "value": "#ffffff",
+          "type": "color",
+          "parent": "ohay colors mode/Light mode",
+          "description": ""
+        },
+        "bg-button-destructive-primary": {
+          "value": "#dc2626",
+          "type": "color",
+          "parent": "ohay colors mode/Light mode",
+          "description": ""
+        },
+        "bg-button-destructive-primary-hover": {
+          "value": "#b91c1c",
+          "type": "color",
+          "parent": "ohay colors mode/Light mode",
+          "description": ""
+        },
+        "bg-button-destructive-primary-click": {
+          "value": "#991b1b",
+          "type": "color",
+          "parent": "ohay colors mode/Light mode",
+          "description": ""
+        },
+        "bg-button-destructive-primary-disabled": {
+          "value": "#f3f4f6",
+          "type": "color",
+          "parent": "ohay colors mode/Light mode",
+          "description": ""
+        },
+        "fg-button-destructive-primary-disabled": {
+          "value": "#9ca3af",
+          "type": "color",
+          "parent": "ohay colors mode/Light mode",
+          "description": ""
+        }
+      },
+      "destructive-secondary": {
+        "fg-button-destructive-secondary": {
+          "value": "#dc2626",
+          "type": "color",
+          "parent": "ohay colors mode/Light mode",
+          "description": ""
+        },
+        "fg-button-destructive-secondary-hover": {
+          "value": "#b91c1c",
+          "type": "color",
+          "parent": "ohay colors mode/Light mode",
+          "description": ""
+        },
+        "border-button-destructive-secondary-click": {
+          "value": "#991b1b",
+          "type": "color",
+          "parent": "ohay colors mode/Light mode",
+          "description": ""
+        },
+        "border-button-destructive-secondary-disabled": {
+          "value": "#e5e7eb",
+          "type": "color",
+          "parent": "ohay colors mode/Light mode",
+          "description": ""
+        },
+        "fg-button-destructive-secondary-click": {
+          "value": "#991b1b",
+          "type": "color",
+          "parent": "ohay colors mode/Light mode",
+          "description": ""
+        },
+        "fg-button-destructive-secondary-disabled": {
+          "value": "#9ca3af",
+          "type": "color",
+          "parent": "ohay colors mode/Light mode",
+          "description": ""
+        },
+        "bg-button-destructive-secondary": {
+          "value": "#ffffff",
+          "type": "color",
+          "parent": "ohay colors mode/Light mode",
+          "description": ""
+        },
+        "bg-button-destructive-secondary-hover": {
+          "value": "#fef2f2",
+          "type": "color",
+          "parent": "ohay colors mode/Light mode",
+          "description": ""
+        },
+        "bg-button-destructive-secondary-click": {
+          "value": "#fee2e2",
+          "type": "color",
+          "parent": "ohay colors mode/Light mode",
+          "description": ""
+        },
+        "bg-button-destructive-secondary-disabled": {
+          "value": "#ffffff",
+          "type": "color",
+          "parent": "ohay colors mode/Light mode",
+          "description": ""
+        },
+        "border-button-destructive-secondary": {
+          "value": "#dc2626",
+          "type": "color",
+          "parent": "ohay colors mode/Light mode",
+          "description": ""
+        },
+        "border-button-destructive-secondary-hover": {
+          "value": "#b91c1c",
+          "type": "color",
+          "parent": "ohay colors mode/Light mode",
+          "description": ""
+        }
+      },
+      "destructive-tertiary": {
+        "fg-button-destructive-tertiary": {
+          "value": "#dc2626",
+          "type": "color",
+          "parent": "ohay colors mode/Light mode",
+          "description": ""
+        },
+        "fg-button-destructive-tertiary-hover": {
+          "value": "#b91c1c",
+          "type": "color",
+          "parent": "ohay colors mode/Light mode",
+          "description": ""
+        },
+        "fg-button-destructive-tertiary-click": {
+          "value": "#991b1b",
+          "type": "color",
+          "parent": "ohay colors mode/Light mode",
+          "description": ""
+        },
+        "fg-button-destructive-tertiary-disabled": {
+          "value": "#9ca3af",
+          "type": "color",
+          "parent": "ohay colors mode/Light mode",
+          "description": ""
+        },
+        "bg-button-destructive-tertiary": {
+          "value": "#ffffff",
+          "type": "color",
+          "parent": "ohay colors mode/Light mode",
+          "description": ""
+        },
+        "bg-button-destructive-tertiary-hover": {
+          "value": "#fef2f2",
+          "type": "color",
+          "parent": "ohay colors mode/Light mode",
+          "description": ""
+        },
+        "bg-button-destructive-tertiary-click": {
+          "value": "#fee2e2",
+          "type": "color",
+          "parent": "ohay colors mode/Light mode",
+          "description": ""
+        },
+        "bg-button-destructive-tertiary-disabled": {
+          "value": "#ffffff",
+          "type": "color",
+          "parent": "ohay colors mode/Light mode",
+          "description": ""
+        },
+        "border-button-destructive-tertiary": {
+          "value": "#fecaca",
+          "type": "color",
+          "parent": "ohay colors mode/Light mode",
+          "description": ""
+        },
+        "border-button-destructive-tertiary-disabled": {
+          "value": "#e5e7eb",
+          "type": "color",
+          "parent": "ohay colors mode/Light mode",
+          "description": ""
+        },
+        "border-button-destructive-tertiary-hover": {
+          "value": "#fca5a5",
+          "type": "color",
+          "parent": "ohay colors mode/Light mode",
+          "description": ""
+        },
+        "border-button-destructive-tertiary-click": {
+          "value": "#f87171",
+          "type": "color",
+          "parent": "ohay colors mode/Light mode",
+          "description": ""
+        }
+      },
+      "destructive-link01": {
+        "fg-button-destructive-link01": {
+          "value": "#dc2626",
+          "type": "color",
+          "parent": "ohay colors mode/Light mode",
+          "description": ""
+        },
+        "fg-button-destructive-link01-hover": {
+          "value": "#b91c1c",
+          "type": "color",
+          "parent": "ohay colors mode/Light mode",
+          "description": ""
+        },
+        "fg-button-destructive-link01-click": {
+          "value": "#991b1b",
+          "type": "color",
+          "parent": "ohay colors mode/Light mode",
+          "description": ""
+        },
+        "fg-button-destructive-link01-disabled": {
+          "value": "#9ca3af",
+          "type": "color",
+          "parent": "ohay colors mode/Light mode",
+          "description": ""
+        },
+        "bg-button-destructive-link01": {
+          "value": "#fef2f2",
+          "type": "color",
+          "parent": "ohay colors mode/Light mode",
+          "description": ""
+        }
+      }
+    },
+    "mockups": {
+      "desktop": {
+        "mockup-header-bg": {
+          "value": "#d1d5db",
+          "type": "color",
+          "parent": "ohay colors mode/Light mode",
+          "description": ""
+        },
+        "mockup-header-dots": {
+          "value": "#ffffff",
+          "type": "color",
+          "parent": "ohay colors mode/Light mode",
+          "description": ""
+        },
+        "mockup-border": {
+          "value": "#d1d5db",
+          "type": "color",
+          "parent": "ohay colors mode/Light mode",
+          "description": ""
+        }
+      },
+      "mobile": {
+        "mockup-border": {
+          "value": "#d1d5db",
+          "type": "color",
+          "parent": "ohay colors mode/Light mode",
+          "description": ""
+        },
+        "mockup-bg": {
+          "value": "#ffffff",
+          "type": "color",
+          "parent": "ohay colors mode/Light mode",
+          "description": ""
+        }
+      }
+    }
+  },
+  "ohay colors mode/Dark mode": {
+    "text": {
+      "heading-primary": {
+        "value": "#f9fafb",
+        "type": "color",
+        "parent": "ohay colors mode/Dark mode",
+        "description": ""
+      },
+      "body": {
+        "value": "#e5e7eb",
+        "type": "color",
+        "parent": "ohay colors mode/Dark mode",
+        "description": ""
+      },
+      "heading-inverted": {
+        "value": "#111827",
+        "type": "color",
+        "parent": "ohay colors mode/Dark mode",
+        "description": ""
+      },
+      "body-inverted": {
+        "value": "#374151",
+        "type": "color",
+        "parent": "ohay colors mode/Dark mode",
+        "description": ""
+      },
+      "body-on-brand": {
+        "value": "#111827",
+        "type": "color",
+        "parent": "ohay colors mode/Dark mode",
+        "description": ""
+      },
+      "sub-headline-brand": {
+        "value": "#3da1ff",
+        "type": "color",
+        "parent": "ohay colors mode/Dark mode",
+        "description": ""
+      },
+      "footer-headline": {
+        "value": "#9ca3af",
+        "type": "color",
+        "parent": "ohay colors mode/Dark mode",
+        "description": ""
+      },
+      "footer-headline-inverted": {
+        "value": "#111827",
+        "type": "color",
+        "parent": "ohay colors mode/Dark mode",
+        "description": ""
+      },
+      "disabled": {
+        "value": "#4b5563",
+        "type": "color",
+        "parent": "ohay colors mode/Dark mode",
+        "description": ""
+      },
+      "heading-secondary": {
+        "value": "#e5e7eb",
+        "type": "color",
+        "parent": "ohay colors mode/Dark mode",
+        "description": ""
+      },
+      "error-primary": {
+        "value": "#fca5a5",
+        "type": "color",
+        "parent": "ohay colors mode/Dark mode",
+        "description": ""
+      },
+      "placeholder": {
+        "value": "#9ca3af",
+        "type": "color",
+        "parent": "ohay colors mode/Dark mode",
+        "description": ""
+      },
+      "error-secondary": {
+        "value": "#f87171",
+        "type": "color",
+        "parent": "ohay colors mode/Dark mode",
+        "description": ""
+      }
+    },
+    "border": {
+      "border-primary": {
+        "value": "#4b5563",
+        "type": "color",
+        "parent": "ohay colors mode/Dark mode",
+        "description": ""
+      },
+      "border-secondary": {
+        "value": "#374151",
+        "type": "color",
+        "parent": "ohay colors mode/Dark mode",
+        "description": ""
+      },
+      "border-tertiary": {
+        "value": "#1f2937",
+        "type": "color",
+        "parent": "ohay colors mode/Dark mode",
+        "description": ""
+      },
+      "border-brand": {
+        "value": "#3da1ff",
+        "type": "color",
+        "parent": "ohay colors mode/Dark mode",
+        "description": ""
+      },
+      "border-white": {
+        "value": "#111827",
+        "type": "color",
+        "parent": "ohay colors mode/Dark mode",
+        "description": ""
+      },
+      "border-brand-hover": {
+        "value": "#80c1ff",
+        "type": "color",
+        "parent": "ohay colors mode/Dark mode",
+        "description": ""
+      },
+      "border-brand-click": {
+        "value": "#b3daff",
+        "type": "color",
+        "parent": "ohay colors mode/Dark mode",
+        "description": ""
+      },
+      "border-brand-subtle": {
+        "value": "#005aad",
+        "type": "color",
+        "parent": "ohay colors mode/Dark mode",
+        "description": ""
+      },
+      "border-error-subtle": {
+        "value": "#dc2626",
+        "type": "color",
+        "parent": "ohay colors mode/Dark mode",
+        "description": ""
+      },
+      "border-error": {
+        "value": "#fca5a5",
+        "type": "color",
+        "parent": "ohay colors mode/Dark mode",
+        "description": ""
+      },
+      "border-error-hover": {
+        "value": "#fecaca",
+        "type": "color",
+        "parent": "ohay colors mode/Dark mode",
+        "description": ""
+      },
+      "border-error-click": {
+        "value": "#fee2e2",
+        "type": "color",
+        "parent": "ohay colors mode/Dark mode",
+        "description": ""
+      },
+      "border-error-disabled": {
+        "value": "#b91c1c",
+        "type": "color",
+        "parent": "ohay colors mode/Dark mode",
+        "description": ""
+      },
+      "border-disabled": {
+        "value": "#4b5563",
+        "type": "color",
+        "parent": "ohay colors mode/Dark mode",
+        "description": ""
+      },
+      "border-solid": {
+        "value": "#d1d5db",
+        "type": "color",
+        "parent": "ohay colors mode/Dark mode",
+        "description": ""
+      }
+    },
+    "icons": {
+      "icon-quaternary": {
+        "value": "#d1d5db",
+        "type": "color",
+        "parent": "ohay colors mode/Dark mode",
+        "description": ""
+      },
+      "icon-quinary": {
+        "value": "#9ca3af",
+        "type": "color",
+        "parent": "ohay colors mode/Dark mode",
+        "description": ""
+      },
+      "icon-brand-secondary": {
+        "value": "#3da1ff",
+        "type": "color",
+        "parent": "ohay colors mode/Dark mode",
+        "description": ""
+      },
+      "icon-success-primary": {
+        "value": "#4ade80",
+        "type": "color",
+        "parent": "ohay colors mode/Dark mode",
+        "description": ""
+      },
+      "icon-warning-primary": {
+        "value": "#fbbf24",
+        "type": "color",
+        "parent": "ohay colors mode/Dark mode",
+        "description": ""
+      },
+      "icon-error-primary": {
+        "value": "#fee2e2",
+        "type": "color",
+        "parent": "ohay colors mode/Dark mode",
+        "description": ""
+      },
+      "icon-brand-primary": {
+        "value": "#80c1ff",
+        "type": "color",
+        "parent": "ohay colors mode/Dark mode",
+        "description": ""
+      },
+      "icon-septenary": {
+        "value": "#4b5563",
+        "type": "color",
+        "parent": "ohay colors mode/Dark mode",
+        "description": ""
+      },
+      "icon-on-fill": {
+        "value": "#111827",
+        "type": "color",
+        "parent": "ohay colors mode/Dark mode",
+        "description": ""
+      },
+      "icon-brand-tertiary": {
+        "value": "#b3daff",
+        "type": "color",
+        "parent": "ohay colors mode/Dark mode",
+        "description": ""
+      },
+      "icon-brand-disabled": {
+        "value": "#005aad",
+        "type": "color",
+        "parent": "ohay colors mode/Dark mode",
+        "description": ""
+      },
+      "icon-primary": {
+        "value": "#f9fafb",
+        "type": "color",
+        "parent": "ohay colors mode/Dark mode",
+        "description": ""
+      },
+      "icon-secondary": {
+        "value": "#f3f4f6",
+        "type": "color",
+        "parent": "ohay colors mode/Dark mode",
+        "description": ""
+      },
+      "icon-error-secondary": {
+        "value": "#fecaca",
+        "type": "color",
+        "parent": "ohay colors mode/Dark mode",
+        "description": ""
+      },
+      "icon-error-tertiary": {
+        "value": "#fca5a5",
+        "type": "color",
+        "parent": "ohay colors mode/Dark mode",
+        "description": ""
+      },
+      "icon-error-disabled": {
+        "value": "#b91c1c",
+        "type": "color",
+        "parent": "ohay colors mode/Dark mode",
+        "description": ""
+      },
+      "icon-tertiary": {
+        "value": "#e5e7eb",
+        "type": "color",
+        "parent": "ohay colors mode/Dark mode",
+        "description": ""
+      },
+      "icon-warning-secondary": {
+        "value": "#fcd34d",
+        "type": "color",
+        "parent": "ohay colors mode/Dark mode",
+        "description": ""
+      },
+      "icon-error-quarternary": {
+        "value": "#f87171",
+        "type": "color",
+        "parent": "ohay colors mode/Dark mode",
+        "description": ""
+      },
+      "icon-senary": {
+        "value": "#9ca3af",
+        "type": "color",
+        "parent": "ohay colors mode/Dark mode",
+        "description": ""
+      },
+      "icon-success-secondary": {
+        "value": "#86efac",
+        "type": "color",
+        "parent": "ohay colors mode/Dark mode",
+        "description": ""
+      }
+    },
+    "background": {
+      "bg-primary": {
+        "value": "#111827",
+        "type": "color",
+        "parent": "ohay colors mode/Dark mode",
+        "description": ""
+      },
+      "bg-secondary": {
+        "value": "#1f2937",
+        "type": "color",
+        "parent": "ohay colors mode/Dark mode",
+        "description": ""
+      },
+      "bg-brand-primary": {
+        "value": "#003261",
+        "type": "color",
+        "parent": "ohay colors mode/Dark mode",
+        "description": ""
+      },
+      "bg-success-primary": {
+        "value": "#14532d",
+        "type": "color",
+        "parent": "ohay colors mode/Dark mode",
+        "description": ""
+      },
+      "bg-warning": {
+        "value": "#78350f",
+        "type": "color",
+        "parent": "ohay colors mode/Dark mode",
+        "description": ""
+      },
+      "bg-error-primary": {
+        "value": "#7f1d1d",
+        "type": "color",
+        "parent": "ohay colors mode/Dark mode",
+        "description": ""
+      },
+      "bg-brand-secondary": {
+        "value": "#004a8f",
+        "type": "color",
+        "parent": "ohay colors mode/Dark mode",
+        "description": ""
+      },
+      "bg-brand-quaternary": {
+        "value": "#3da1ff",
+        "type": "color",
+        "parent": "ohay colors mode/Dark mode",
+        "description": ""
+      },
+      "bg-quaternary": {
+        "value": "#374151",
+        "type": "color",
+        "parent": "ohay colors mode/Dark mode",
+        "description": ""
+      },
+      "bg-success-tertiary": {
+        "value": "#4ade80",
+        "type": "color",
+        "parent": "ohay colors mode/Dark mode",
+        "description": ""
+      },
+      "bg-brand-quinary": {
+        "value": "#80c1ff",
+        "type": "color",
+        "parent": "ohay colors mode/Dark mode",
+        "description": ""
+      },
+      "bg-brand-senary": {
+        "value": "#b3daff",
+        "type": "color",
+        "parent": "ohay colors mode/Dark mode",
+        "description": ""
+      },
+      "bg-brand-tertiary": {
+        "value": "#005aad",
+        "type": "color",
+        "parent": "ohay colors mode/Dark mode",
+        "description": ""
+      },
+      "bg-tertiary": {
+        "value": "#374151",
+        "type": "color",
+        "parent": "ohay colors mode/Dark mode",
+        "description": ""
+      },
+      "bg-error-quarternary": {
+        "value": "#fca5a5",
+        "type": "color",
+        "parent": "ohay colors mode/Dark mode",
+        "description": ""
+      },
+      "bg-error-quinary": {
+        "value": "#fecaca",
+        "type": "color",
+        "parent": "ohay colors mode/Dark mode",
+        "description": ""
+      },
+      "bg-error-senary": {
+        "value": "#fee2e2",
+        "type": "color",
+        "parent": "ohay colors mode/Dark mode",
+        "description": ""
+      },
+      "bg-error-secondary": {
+        "value": "#991b1b",
+        "type": "color",
+        "parent": "ohay colors mode/Dark mode",
+        "description": ""
+      },
+      "bg-error-tertiary": {
+        "value": "#b91c1c",
+        "type": "color",
+        "parent": "ohay colors mode/Dark mode",
+        "description": ""
+      },
+      "bg-solid-primary": {
+        "value": "#f9fafb",
+        "type": "color",
+        "parent": "ohay colors mode/Dark mode",
+        "description": ""
+      },
+      "bg-solid-quarternary": {
+        "value": "#9ca3af",
+        "type": "color",
+        "parent": "ohay colors mode/Dark mode",
+        "description": ""
+      },
+      "bg-success-quarternary": {
+        "value": "#86efac",
+        "type": "color",
+        "parent": "ohay colors mode/Dark mode",
+        "description": ""
+      },
+      "bg-success-senery": {
+        "value": "#bbf7d0",
+        "type": "color",
+        "parent": "ohay colors mode/Dark mode",
+        "description": ""
+      },
+      "bg-primary-cards": {
+        "value": "#1f2937",
+        "type": "color",
+        "parent": "ohay colors mode/Dark mode",
+        "description": ""
+      },
+      "bg-senary": {
+        "value": "#374151",
+        "type": "color",
+        "parent": "ohay colors mode/Dark mode",
+        "description": ""
+      },
+      "bg-solid-tertiary": {
+        "value": "#e5e7eb",
+        "type": "color",
+        "parent": "ohay colors mode/Dark mode",
+        "description": ""
+      },
+      "bg-success-secondary": {
+        "value": "#166534",
+        "type": "color",
+        "parent": "ohay colors mode/Dark mode",
+        "description": ""
+      },
+      "bg-solid-secondary": {
+        "value": "#d1d5db",
+        "type": "color",
+        "parent": "ohay colors mode/Dark mode",
+        "description": ""
+      }
+    },
+    "buttons": {
+      "primary": {
+        "fg-button-primary": {
+          "value": "#ffffff",
+          "type": "color",
+          "parent": "ohay colors mode/Dark mode",
+          "description": ""
+        },
+        "bg-button-primary": {
+          "value": "#0072de",
+          "type": "color",
+          "parent": "ohay colors mode/Dark mode",
+          "description": ""
+        },
+        "bg-button-primary-hover": {
+          "value": "#0067c7",
+          "type": "color",
+          "parent": "ohay colors mode/Dark mode",
+          "description": ""
+        },
+        "bg-button-primary-click": {
+          "value": "#005aad",
+          "type": "color",
+          "parent": "ohay colors mode/Dark mode",
+          "description": ""
+        },
+        "bg-button-primary-disabled": {
+          "value": "#1f2937",
+          "type": "color",
+          "parent": "ohay colors mode/Dark mode",
+          "description": ""
+        },
+        "fg-button-primary-disabled": {
+          "value": "#6b7280",
+          "type": "color",
+          "parent": "ohay colors mode/Dark mode",
+          "description": ""
+        }
+      },
+      "secondary": {
+        "fg-button-secondary": {
+          "value": "#3da1ff",
+          "type": "color",
+          "parent": "ohay colors mode/Dark mode",
+          "description": ""
+        },
+        "fg-button-secondary-hover": {
+          "value": "#80c1ff",
+          "type": "color",
+          "parent": "ohay colors mode/Dark mode",
+          "description": ""
+        },
+        "fg-button-secondary-click": {
+          "value": "#b3daff",
+          "type": "color",
+          "parent": "ohay colors mode/Dark mode",
+          "description": ""
+        },
+        "fg-button-secondary-disabled": {
+          "value": "#6b7280",
+          "type": "color",
+          "parent": "ohay colors mode/Dark mode",
+          "description": ""
+        },
+        "bg-button-secondary": {
+          "value": "#111827",
+          "type": "color",
+          "parent": "ohay colors mode/Dark mode",
+          "description": ""
+        },
+        "bg-button-secondary-hover": {
+          "value": "#003261",
+          "type": "color",
+          "parent": "ohay colors mode/Dark mode",
+          "description": ""
+        },
+        "bg-button-secondary-click": {
+          "value": "#004a8f",
+          "type": "color",
+          "parent": "ohay colors mode/Dark mode",
+          "description": ""
+        },
+        "bg-button-secondary-disabled": {
+          "value": "#111827",
+          "type": "color",
+          "parent": "ohay colors mode/Dark mode",
+          "description": ""
+        },
+        "border-button-secondary": {
+          "value": "#3da1ff",
+          "type": "color",
+          "parent": "ohay colors mode/Dark mode",
+          "description": ""
+        },
+        "border-button-secondary-hover": {
+          "value": "#80c1ff",
+          "type": "color",
+          "parent": "ohay colors mode/Dark mode",
+          "description": ""
+        },
+        "border-button-secondary-click": {
+          "value": "#b3daff",
+          "type": "color",
+          "parent": "ohay colors mode/Dark mode",
+          "description": ""
+        },
+        "border-button-secondary-disabled": {
+          "value": "#374151",
+          "type": "color",
+          "parent": "ohay colors mode/Dark mode",
+          "description": ""
+        }
+      },
+      "tertiary": {
+        "fg-button-tertiary": {
+          "value": "#e5e7eb",
+          "type": "color",
+          "parent": "ohay colors mode/Dark mode",
+          "description": ""
+        },
+        "fg-button-tertiary-hover": {
+          "value": "#f3f4f6",
+          "type": "color",
+          "parent": "ohay colors mode/Dark mode",
+          "description": ""
+        },
+        "fg-button-tertiary-click": {
+          "value": "#f9fafb",
+          "type": "color",
+          "parent": "ohay colors mode/Dark mode",
+          "description": ""
+        },
+        "fg-button-tertiary-disabled": {
+          "value": "#6b7280",
+          "type": "color",
+          "parent": "ohay colors mode/Dark mode",
+          "description": ""
+        },
+        "bg-button-tertiary": {
+          "value": "#111827",
+          "type": "color",
+          "parent": "ohay colors mode/Dark mode",
+          "description": ""
+        },
+        "bg-button-tertiary-hover": {
+          "value": "#1f2937",
+          "type": "color",
+          "parent": "ohay colors mode/Dark mode",
+          "description": ""
+        },
+        "bg-button-tertiary-click": {
+          "value": "#374151",
+          "type": "color",
+          "parent": "ohay colors mode/Dark mode",
+          "description": ""
+        },
+        "bg-button-tertiary-disabled": {
+          "value": "#111827",
+          "type": "color",
+          "parent": "ohay colors mode/Dark mode",
+          "description": ""
+        },
+        "border-button-tertiary": {
+          "value": "#4b5563",
+          "type": "color",
+          "parent": "ohay colors mode/Dark mode",
+          "description": ""
+        },
+        "border-button-tertiary-disabled": {
+          "value": "#374151",
+          "type": "color",
+          "parent": "ohay colors mode/Dark mode",
+          "description": ""
+        }
+      },
+      "link01": {
+        "fg-button-link01": {
+          "value": "#3da1ff",
+          "type": "color",
+          "parent": "ohay colors mode/Dark mode",
+          "description": ""
+        },
+        "fg-button-link01-hover": {
+          "value": "#80c1ff",
+          "type": "color",
+          "parent": "ohay colors mode/Dark mode",
+          "description": ""
+        },
+        "fg-button-link01-click": {
+          "value": "#b3daff",
+          "type": "color",
+          "parent": "ohay colors mode/Dark mode",
+          "description": ""
+        },
+        "fg-button-link01-disabled": {
+          "value": "#6b7280",
+          "type": "color",
+          "parent": "ohay colors mode/Dark mode",
+          "description": ""
+        },
+        "bg-button-link01": {
+          "value": "#004a8f",
+          "type": "color",
+          "parent": "ohay colors mode/Dark mode",
+          "description": ""
+        }
+      },
+      "link02": {
+        "fg-button-link02": {
+          "value": "#e5e7eb",
+          "type": "color",
+          "parent": "ohay colors mode/Dark mode",
+          "description": ""
+        },
+        "fg-button-link02-hover": {
+          "value": "#f3f4f6",
+          "type": "color",
+          "parent": "ohay colors mode/Dark mode",
+          "description": ""
+        },
+        "fg-button-link02-click": {
+          "value": "#f9fafb",
+          "type": "color",
+          "parent": "ohay colors mode/Dark mode",
+          "description": ""
+        },
+        "fg-button-link02-disabled": {
+          "value": "#6b7280",
+          "type": "color",
+          "parent": "ohay colors mode/Dark mode",
+          "description": ""
+        },
+        "bg-button-link02": {
+          "value": "#1f2937",
+          "type": "color",
+          "parent": "ohay colors mode/Dark mode",
+          "description": ""
+        }
+      },
+      "destructive-primary": {
+        "fg-button-destructive-primary": {
+          "value": "#ffffff",
+          "type": "color",
+          "parent": "ohay colors mode/Dark mode",
+          "description": ""
+        },
+        "bg-button-destructive-primary": {
+          "value": "#dc2626",
+          "type": "color",
+          "parent": "ohay colors mode/Dark mode",
+          "description": ""
+        },
+        "bg-button-destructive-primary-hover": {
+          "value": "#b91c1c",
+          "type": "color",
+          "parent": "ohay colors mode/Dark mode",
+          "description": ""
+        },
+        "bg-button-destructive-primary-click": {
+          "value": "#991b1b",
+          "type": "color",
+          "parent": "ohay colors mode/Dark mode",
+          "description": ""
+        },
+        "bg-button-destructive-primary-disabled": {
+          "value": "#1f2937",
+          "type": "color",
+          "parent": "ohay colors mode/Dark mode",
+          "description": ""
+        },
+        "fg-button-destructive-primary-disabled": {
+          "value": "#6b7280",
+          "type": "color",
+          "parent": "ohay colors mode/Dark mode",
+          "description": ""
+        }
+      },
+      "destructive-secondary": {
+        "fg-button-destructive-secondary": {
+          "value": "#fecaca",
+          "type": "color",
+          "parent": "ohay colors mode/Dark mode",
+          "description": ""
+        },
+        "fg-button-destructive-secondary-hover": {
+          "value": "#fee2e2",
+          "type": "color",
+          "parent": "ohay colors mode/Dark mode",
+          "description": ""
+        },
+        "border-button-destructive-secondary-click": {
+          "value": "#dc2626",
+          "type": "color",
+          "parent": "ohay colors mode/Dark mode",
+          "description": ""
+        },
+        "border-button-destructive-secondary-disabled": {
+          "value": "#374151",
+          "type": "color",
+          "parent": "ohay colors mode/Dark mode",
+          "description": ""
+        },
+        "fg-button-destructive-secondary-click": {
+          "value": "#fef2f2",
+          "type": "color",
+          "parent": "ohay colors mode/Dark mode",
+          "description": ""
+        },
+        "fg-button-destructive-secondary-disabled": {
+          "value": "#6b7280",
+          "type": "color",
+          "parent": "ohay colors mode/Dark mode",
+          "description": ""
+        },
+        "bg-button-destructive-secondary": {
+          "value": "#5f1616",
+          "type": "color",
+          "parent": "ohay colors mode/Dark mode",
+          "description": ""
+        },
+        "bg-button-destructive-secondary-hover": {
+          "value": "#7f1d1d",
+          "type": "color",
+          "parent": "ohay colors mode/Dark mode",
+          "description": ""
+        },
+        "bg-button-destructive-secondary-click": {
+          "value": "#991b1b",
+          "type": "color",
+          "parent": "ohay colors mode/Dark mode",
+          "description": ""
+        },
+        "bg-button-destructive-secondary-disabled": {
+          "value": "#111827",
+          "type": "color",
+          "parent": "ohay colors mode/Dark mode",
+          "description": ""
+        },
+        "border-button-destructive-secondary": {
+          "value": "#991b1b",
+          "type": "color",
+          "parent": "ohay colors mode/Dark mode",
+          "description": ""
+        },
+        "border-button-destructive-secondary-hover": {
+          "value": "#b91c1c",
+          "type": "color",
+          "parent": "ohay colors mode/Dark mode",
+          "description": ""
+        }
+      },
+      "destructive-tertiary": {
+        "fg-button-destructive-tertiary": {
+          "value": "#fecaca",
+          "type": "color",
+          "parent": "ohay colors mode/Dark mode",
+          "description": ""
+        },
+        "fg-button-destructive-tertiary-hover": {
+          "value": "#fee2e2",
+          "type": "color",
+          "parent": "ohay colors mode/Dark mode",
+          "description": ""
+        },
+        "fg-button-destructive-tertiary-click": {
+          "value": "#fef2f2",
+          "type": "color",
+          "parent": "ohay colors mode/Dark mode",
+          "description": ""
+        },
+        "fg-button-destructive-tertiary-disabled": {
+          "value": "#6b7280",
+          "type": "color",
+          "parent": "ohay colors mode/Dark mode",
+          "description": ""
+        },
+        "bg-button-destructive-tertiary": {
+          "value": "#111827",
+          "type": "color",
+          "parent": "ohay colors mode/Dark mode",
+          "description": ""
+        },
+        "bg-button-destructive-tertiary-hover": {
+          "value": "#7f1d1d",
+          "type": "color",
+          "parent": "ohay colors mode/Dark mode",
+          "description": ""
+        },
+        "bg-button-destructive-tertiary-click": {
+          "value": "#991b1b",
+          "type": "color",
+          "parent": "ohay colors mode/Dark mode",
+          "description": ""
+        },
+        "bg-button-destructive-tertiary-disabled": {
+          "value": "#111827",
+          "type": "color",
+          "parent": "ohay colors mode/Dark mode",
+          "description": ""
+        },
+        "border-button-destructive-tertiary": {
+          "value": "#991b1b",
+          "type": "color",
+          "parent": "ohay colors mode/Dark mode",
+          "description": ""
+        },
+        "border-button-destructive-tertiary-disabled": {
+          "value": "#374151",
+          "type": "color",
+          "parent": "ohay colors mode/Dark mode",
+          "description": ""
+        },
+        "border-button-destructive-tertiary-hover": {
+          "value": "#b91c1c",
+          "type": "color",
+          "parent": "ohay colors mode/Dark mode",
+          "description": ""
+        },
+        "border-button-destructive-tertiary-click": {
+          "value": "#dc2626",
+          "type": "color",
+          "parent": "ohay colors mode/Dark mode",
+          "description": ""
+        }
+      },
+      "destructive-link01": {
+        "fg-button-destructive-link01": {
+          "value": "#fecaca",
+          "type": "color",
+          "parent": "ohay colors mode/Dark mode",
+          "description": ""
+        },
+        "fg-button-destructive-link01-hover": {
+          "value": "#fee2e2",
+          "type": "color",
+          "parent": "ohay colors mode/Dark mode",
+          "description": ""
+        },
+        "fg-button-destructive-link01-click": {
+          "value": "#fef2f2",
+          "type": "color",
+          "parent": "ohay colors mode/Dark mode",
+          "description": ""
+        },
+        "fg-button-destructive-link01-disabled": {
+          "value": "#6b7280",
+          "type": "color",
+          "parent": "ohay colors mode/Dark mode",
+          "description": ""
+        },
+        "bg-button-destructive-link01": {
+          "value": "#7f1d1d",
+          "type": "color",
+          "parent": "ohay colors mode/Dark mode",
+          "description": ""
+        }
+      }
+    },
+    "mockups": {
+      "desktop": {
+        "mockup-header-bg": {
+          "value": "#1f2937",
+          "type": "color",
+          "parent": "ohay colors mode/Dark mode",
+          "description": ""
+        },
+        "mockup-header-dots": {
+          "value": "#4b5563",
+          "type": "color",
+          "parent": "ohay colors mode/Dark mode",
+          "description": ""
+        },
+        "mockup-border": {
+          "value": "#4b5563",
+          "type": "color",
+          "parent": "ohay colors mode/Dark mode",
+          "description": ""
+        }
+      },
+      "mobile": {
+        "mockup-border": {
+          "value": "#374151",
+          "type": "color",
+          "parent": "ohay colors mode/Dark mode",
+          "description": ""
+        },
+        "mockup-bg": {
+          "value": "#1f2937",
+          "type": "color",
+          "parent": "ohay colors mode/Dark mode",
+          "description": ""
+        }
+      }
+    }
+  },
+  "ohay spacing/Mode 1": {
+    "o Corner Radius": {
+      "radius-none": {
+        "value": "0rem",
+        "type": "dimension",
+        "parent": "ohay spacing/Mode 1",
+        "description": ""
+      },
+      "radius-xxs": {
+        "value": "0.125rem",
+        "type": "dimension",
+        "parent": "ohay spacing/Mode 1",
+        "description": ""
+      },
+      "radius-xs": {
+        "value": "0.25rem",
+        "type": "dimension",
+        "parent": "ohay spacing/Mode 1",
+        "description": ""
+      },
+      "radius-md": {
+        "value": "0.5rem",
+        "type": "dimension",
+        "parent": "ohay spacing/Mode 1",
+        "description": ""
+      },
+      "radius-2xl": {
+        "value": "1rem",
+        "type": "dimension",
+        "parent": "ohay spacing/Mode 1",
+        "description": ""
+      },
+      "radius-full": {
+        "value": "62.4375rem",
+        "type": "dimension",
+        "parent": "ohay spacing/Mode 1",
+        "description": ""
+      },
+      "radius-sm": {
+        "value": "0.375rem",
+        "type": "dimension",
+        "parent": "ohay spacing/Mode 1",
+        "description": ""
+      },
+      "radius-lg": {
+        "value": "0.625rem",
+        "type": "dimension",
+        "parent": "ohay spacing/Mode 1",
+        "description": ""
+      },
+      "radius-xl": {
+        "value": "0.75rem",
+        "type": "dimension",
+        "parent": "ohay spacing/Mode 1",
+        "description": ""
+      },
+      "radius-4xl": {
+        "value": "1.5rem",
+        "type": "dimension",
+        "parent": "ohay spacing/Mode 1",
+        "description": ""
+      },
+      "radius-3xl": {
+        "value": "1.25rem",
+        "type": "dimension",
+        "parent": "ohay spacing/Mode 1",
+        "description": ""
+      }
+    },
+    "o Spacing": {
+      "spacing-md": {
+        "value": "0.5rem",
+        "type": "dimension",
+        "parent": "ohay spacing/Mode 1",
+        "description": ""
+      },
+      "spacing-lg": {
+        "value": "0.75rem",
+        "type": "dimension",
+        "parent": "ohay spacing/Mode 1",
+        "description": ""
+      },
+      "spacing-xl": {
+        "value": "1rem",
+        "type": "dimension",
+        "parent": "ohay spacing/Mode 1",
+        "description": ""
+      },
+      "spacing-none": {
+        "value": "0rem",
+        "type": "dimension",
+        "parent": "ohay spacing/Mode 1",
+        "description": ""
+      },
+      "spacing-xxs": {
+        "value": "0.125rem",
+        "type": "dimension",
+        "parent": "ohay spacing/Mode 1",
+        "description": ""
+      },
+      "spacing-xs": {
+        "value": "0.25rem",
+        "type": "dimension",
+        "parent": "ohay spacing/Mode 1",
+        "description": ""
+      },
+      "spacing-sm": {
+        "value": "0.375rem",
+        "type": "dimension",
+        "parent": "ohay spacing/Mode 1",
+        "description": ""
+      },
+      "spacing-2xl": {
+        "value": "1.25rem",
+        "type": "dimension",
+        "parent": "ohay spacing/Mode 1",
+        "description": ""
+      },
+      "spacing-3xl": {
+        "value": "1.5rem",
+        "type": "dimension",
+        "parent": "ohay spacing/Mode 1",
+        "description": ""
+      },
+      "spacing-4xl": {
+        "value": "2rem",
+        "type": "dimension",
+        "parent": "ohay spacing/Mode 1",
+        "description": ""
+      }
+    }
+  },
+  "Number variables/Mode 1": {
+    "Spacing": {
+      "None": {
+        "value": "0rem",
+        "type": "dimension",
+        "parent": "Number variables/Mode 1",
+        "description": ""
+      },
+      "3xs": {
+        "value": "0.0625rem",
+        "type": "dimension",
+        "parent": "Number variables/Mode 1",
+        "description": ""
+      },
+      "2xs": {
+        "value": "0.125rem",
+        "type": "dimension",
+        "parent": "Number variables/Mode 1",
+        "description": ""
+      },
+      "xs": {
+        "value": "0.1875rem",
+        "type": "dimension",
+        "parent": "Number variables/Mode 1",
+        "description": ""
+      },
+      "sm": {
+        "value": "0.25rem",
+        "type": "dimension",
+        "parent": "Number variables/Mode 1",
+        "description": ""
+      },
+      "md": {
+        "value": "0.375rem",
+        "type": "dimension",
+        "parent": "Number variables/Mode 1",
+        "description": ""
+      },
+      "lg": {
+        "value": "0.5rem",
+        "type": "dimension",
+        "parent": "Number variables/Mode 1",
+        "description": ""
+      },
+      "xl": {
+        "value": "0.625rem",
+        "type": "dimension",
+        "parent": "Number variables/Mode 1",
+        "description": ""
+      },
+      "2xl": {
+        "value": "0.75rem",
+        "type": "dimension",
+        "parent": "Number variables/Mode 1",
+        "description": ""
+      },
+      "3xl": {
+        "value": "0.875rem",
+        "type": "dimension",
+        "parent": "Number variables/Mode 1",
+        "description": ""
+      },
+      "4xl": {
+        "value": "1rem",
+        "type": "dimension",
+        "parent": "Number variables/Mode 1",
+        "description": ""
+      },
+      "5xl": {
+        "value": "1.25rem",
+        "type": "dimension",
+        "parent": "Number variables/Mode 1",
+        "description": ""
+      },
+      "6xl": {
+        "value": "1.5rem",
+        "type": "dimension",
+        "parent": "Number variables/Mode 1",
+        "description": ""
+      },
+      "7xl": {
+        "value": "2rem",
+        "type": "dimension",
+        "parent": "Number variables/Mode 1",
+        "description": ""
+      },
+      "8xl": {
+        "value": "2.25rem",
+        "type": "dimension",
+        "parent": "Number variables/Mode 1",
+        "description": ""
+      },
+      "9xl": {
+        "value": "2.5rem",
+        "type": "dimension",
+        "parent": "Number variables/Mode 1",
+        "description": ""
+      },
+      "10xl": {
+        "value": "2.75rem",
+        "type": "dimension",
+        "parent": "Number variables/Mode 1",
+        "description": ""
+      },
+      "11xl": {
+        "value": "3rem",
+        "type": "dimension",
+        "parent": "Number variables/Mode 1",
+        "description": ""
+      },
+      "12xl": {
+        "value": "3.5rem",
+        "type": "dimension",
+        "parent": "Number variables/Mode 1",
+        "description": ""
+      },
+      "13xl": {
+        "value": "4rem",
+        "type": "dimension",
+        "parent": "Number variables/Mode 1",
+        "description": ""
+      },
+      "14xl": {
+        "value": "4.5rem",
+        "type": "dimension",
+        "parent": "Number variables/Mode 1",
+        "description": ""
+      },
+      "15xl": {
+        "value": "5rem",
+        "type": "dimension",
+        "parent": "Number variables/Mode 1",
+        "description": ""
+      },
+      "16xl": {
+        "value": "5.5rem",
+        "type": "dimension",
+        "parent": "Number variables/Mode 1",
+        "description": ""
+      },
+      "17xl": {
+        "value": "6rem",
+        "type": "dimension",
+        "parent": "Number variables/Mode 1",
+        "description": ""
+      },
+      "18xl": {
+        "value": "7rem",
+        "type": "dimension",
+        "parent": "Number variables/Mode 1",
+        "description": ""
+      },
+      "19xl": {
+        "value": "8rem",
+        "type": "dimension",
+        "parent": "Number variables/Mode 1",
+        "description": ""
+      },
+      "20xl": {
+        "value": "9rem",
+        "type": "dimension",
+        "parent": "Number variables/Mode 1",
+        "description": ""
+      },
+      "21xl": {
+        "value": "10rem",
+        "type": "dimension",
+        "parent": "Number variables/Mode 1",
+        "description": ""
+      },
+      "22xl": {
+        "value": "12rem",
+        "type": "dimension",
+        "parent": "Number variables/Mode 1",
+        "description": ""
+      },
+      "23xl": {
+        "value": "13rem",
+        "type": "dimension",
+        "parent": "Number variables/Mode 1",
+        "description": ""
+      },
+      "24xl": {
+        "value": "14rem",
+        "type": "dimension",
+        "parent": "Number variables/Mode 1",
+        "description": ""
+      },
+      "25xl": {
+        "value": "15rem",
+        "type": "dimension",
+        "parent": "Number variables/Mode 1",
+        "description": ""
+      },
+      "26xl": {
+        "value": "16rem",
+        "type": "dimension",
+        "parent": "Number variables/Mode 1",
+        "description": ""
+      },
+      "27xl": {
+        "value": "18rem",
+        "type": "dimension",
+        "parent": "Number variables/Mode 1",
+        "description": ""
+      },
+      "28xl": {
+        "value": "20rem",
+        "type": "dimension",
+        "parent": "Number variables/Mode 1",
+        "description": ""
+      },
+      "29xl": {
+        "value": "24rem",
+        "type": "dimension",
+        "parent": "Number variables/Mode 1",
+        "description": ""
+      }
+    },
+    "Radius": {
+      "None": {
+        "value": "0rem",
+        "type": "dimension",
+        "parent": "Number variables/Mode 1",
+        "description": ""
+      },
+      "2xs": {
+        "value": "0.125rem",
+        "type": "dimension",
+        "parent": "Number variables/Mode 1",
+        "description": ""
+      },
+      "xs": {
+        "value": "0.25rem",
+        "type": "dimension",
+        "parent": "Number variables/Mode 1",
+        "description": ""
+      },
+      "sm": {
+        "value": "0.375rem",
+        "type": "dimension",
+        "parent": "Number variables/Mode 1",
+        "description": ""
+      },
+      "md": {
+        "value": "0.5rem",
+        "type": "dimension",
+        "parent": "Number variables/Mode 1",
+        "description": ""
+      },
+      "lg": {
+        "value": "1rem",
+        "type": "dimension",
+        "parent": "Number variables/Mode 1",
+        "description": ""
+      },
+      "xl": {
+        "value": "1.25rem",
+        "type": "dimension",
+        "parent": "Number variables/Mode 1",
+        "description": ""
+      },
+      "2xl": {
+        "value": "1.5rem",
+        "type": "dimension",
+        "parent": "Number variables/Mode 1",
+        "description": ""
+      },
+      "Full": {
+        "value": "6249.9375rem",
+        "type": "dimension",
+        "parent": "Number variables/Mode 1",
+        "description": ""
+      }
+    },
+    "border-width-1": {
+      "value": "0.0625rem",
+      "type": "dimension",
+      "parent": "Number variables/Mode 1",
+      "description": ""
+    },
+    "border-width-2": {
+      "value": "0.125rem",
+      "type": "dimension",
+      "parent": "Number variables/Mode 1",
+      "description": ""
+    },
+    "border-width-3": {
+      "value": "0.1875rem",
+      "type": "dimension",
+      "parent": "Number variables/Mode 1",
+      "description": ""
+    },
+    "border-width-4": {
+      "value": "0.25rem",
+      "type": "dimension",
+      "parent": "Number variables/Mode 1",
+      "description": ""
+    },
+    "border-width-6": {
+      "value": "0.375rem",
+      "type": "dimension",
+      "parent": "Number variables/Mode 1",
+      "description": ""
+    },
+    "border-width-8": {
+      "value": "0.5rem",
+      "type": "dimension",
+      "parent": "Number variables/Mode 1",
+      "description": ""
+    },
+    "border-width-10": {
+      "value": "0.625rem",
+      "type": "dimension",
+      "parent": "Number variables/Mode 1",
+      "description": ""
+    },
+    "Breakpoint": {
+      "Desktop": {
+        "value": "90rem",
+        "type": "dimension",
+        "parent": "Number variables/Mode 1",
+        "description": ""
+      },
+      "Tablet": {
+        "value": "48rem",
+        "type": "dimension",
+        "parent": "Number variables/Mode 1",
+        "description": ""
+      },
+      "Mobile": {
+        "value": "24.375rem",
+        "type": "dimension",
+        "parent": "Number variables/Mode 1",
+        "description": ""
+      }
+    }
+  },
+  "ohay prototype/Mode 1": {
+    "Breakpoint": {
+      "Desktop": {
+        "value": "90rem",
+        "type": "dimension",
+        "parent": "ohay prototype/Mode 1",
+        "description": ""
+      },
+      "Tablet": {
+        "value": "48rem",
+        "type": "dimension",
+        "parent": "ohay prototype/Mode 1",
+        "description": ""
+      },
+      "Mobile": {
+        "value": "24.375rem",
+        "type": "dimension",
+        "parent": "ohay prototype/Mode 1",
+        "description": ""
+      },
+      "Laptop": {
+        "value": "80rem",
+        "type": "dimension",
+        "parent": "ohay prototype/Mode 1",
+        "description": ""
+      }
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "global",
+      "Tailwind Colors/Mode 1",
+      "ohay system/Mode 1",
+      "ohay colors mode/Light mode",
+      "ohay colors mode/Dark mode",
+      "ohay spacing/Mode 1",
+      "Number variables/Mode 1",
+      "ohay prototype/Mode 1"
+    ]
+  }
+}
